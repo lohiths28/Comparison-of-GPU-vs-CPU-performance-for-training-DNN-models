@@ -3,12 +3,6 @@
 
 Tensors are a type of data structure used in linear algebra, and like vectors and matrices.Tensors because of its inherent nature are used as default data structure in popular Deep learning Packages like Tensorflow and Pytorch
 
-
-## 🔗 Links
-CPU VS GPU COMPARISON IN TENSORFLOW: 
-https://datamadness.github.io/TensorFlow2-CPU-vs-GPU
-
-
 ## Setting up GPU environment
 
 run this command to check status of drivers,
@@ -49,6 +43,10 @@ NOTE : Make sure to install compatible version for the installed drivers
 Install CudaDNN: https://developer.nvidia.com/cudnn
 
 Install GPU version of Pytorch and Tensorflow
+
+Pytorch : https://pytorch.org/get-started/locally/
+
+Tensorflow : https://www.tensorflow.org/install
 
 Set device as GPU in the respective code.
 
