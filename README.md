@@ -52,3 +52,9 @@ Install GPU version of Pytorch and Tensorflow
 
 Set device as GPU in the respective code.
 
+## 🔗 Links
+CPU VS GPU COMPARISON IN TENSORFLOW: 
+https://datamadness.github.io/TensorFlow2-CPU-vs-GPU
+
+VIDEO LINK :
+https://drive.google.com/file/d/1yZusxwT8kzJ9vC_f-hfdM_L2zejpfoJ4/view?usp=sharing
