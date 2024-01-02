@@ -1,7 +1,7 @@
 
 # Comparison of GPU vs CPU Perfomance for training DNN Models
 
-Tensors are a type of data structure used in linear algebra, and like vectors and matrices.Tensors because of its inherent nature are used as default data structure in popular Deep learning Packages like Tensorflow and Pytorch
+Tensors are a type of data structure used in linear algebra, and like vectors and matrices.Tensors because of its inherent nature are used as default data structure in popular Deep learning Packages like Tensorflow and Pytorch.
 
 ## Setting up GPU environment
 
